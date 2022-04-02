@@ -1,4 +1,4 @@
-package com.geekbang.coupon.template.api.xnum;
+package com.syx.coupon.template.api.xnum;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
